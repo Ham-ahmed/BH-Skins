@@ -13,7 +13,7 @@ sleep 2;
 echo "" 
 echo "" 
 echo "**************************************************************************************************"
-echo "#  INSTALLED SUCCESSFULLY #"
+echo "#  Skin INSTALLED SUCCESSFULLY  #"
 echo "*      888888  888888    .d88b.    88888     88    88   .d88b.  *"
 echo "*      88  88  88  88   88    88   88   88   88    88  88    88 *"
 echo "*      88    88    88  88      88  88    88  88oooo88  88oooo88 *"
